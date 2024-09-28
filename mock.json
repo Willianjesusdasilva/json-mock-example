@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "date_time_string": "2024-10-01T15:00:00Z",
+      "date_time_milliseconds": 1696162800000,
+      "broadcast_location": "Gaules",
+      "home_team": "Team A",
+      "away_team": "Team B",
+      "championship": "CS:GO Championship 2024"
+    },
+    {
+      "date_time_string": "2024-10-05T18:30:00Z",
+      "date_time_milliseconds": 1696527000000,
+      "broadcast_location": "Gaules",
+      "home_team": "Team C",
+      "away_team": "Team D",
+      "championship": "CS:GO Championship 2024"
+    },
+    {
+      "date_time_string": "2024-10-10T20:00:00Z",
+      "date_time_milliseconds": 1696944000000,
+      "broadcast_location": "Gaules",
+      "home_team": "Team E",
+      "away_team": "Team F",
+      "championship": "CS:GO Championship 2024"
+    }
+  ]
+}
