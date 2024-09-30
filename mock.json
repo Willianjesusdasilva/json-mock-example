@@ -1,28 +1,49 @@
 {
-  "matches": [
+  "data": [
     {
-      "date_time_string": "2024-10-01T15:00:00Z",
-      "date_time_milliseconds": 1696162800000,
-      "broadcast_location": "Gaules",
-      "home_team": "Team A",
-      "away_team": "Team B",
-      "championship": "CS:GO Championship 2024"
+      "id": 2359703,
+      "time": "2022-10-24T00:45:00.000Z",
+      "event": {
+        "name": "ESL Impact League Season 2 South America",
+        "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+      },
+      "stars": 0,
+      "maps": "bo3",
+      "teams": [
+        {
+          "id": 11769,
+          "name": "B4 fe",
+          "logo": "https://img-cdn.hltv.org/teamlogo/m7hO-NJreq77xXGQDJJxKo.png?ixlib=java-2.1.0&w=50&s=13c7e48d98fa8fcb344c0c43618448e8"
+        },
+        {
+          "id": 11535,
+          "name": "Black Dragons fe",
+          "logo": "https://img-cdn.hltv.org/teamlogo/e3eGTKsUxXmjSPJfkD1H0L.png?ixlib=java-2.1.0&w=50&s=43dba07c694cccabf4bce5abf421a86f"
+        }
+      ]
     },
     {
-      "date_time_string": "2024-10-05T18:30:00Z",
-      "date_time_milliseconds": 1696527000000,
-      "broadcast_location": "Gaules",
-      "home_team": "Team C",
-      "away_team": "Team D",
-      "championship": "CS:GO Championship 2024"
-    },
-    {
-      "date_time_string": "2024-10-10T20:00:00Z",
-      "date_time_milliseconds": 1696944000000,
-      "broadcast_location": "Gaules",
-      "home_team": "Team E",
-      "away_team": "Team F",
-      "championship": "CS:GO Championship 2024"
+      "id": 2359735,
+      "time": "2022-10-24T08:00:00.000Z",
+      "event": {
+        "name": "Elisa Invitational Fall 2022",
+        "logo": "https://img-cdn.hltv.org/eventlogo/SepkTgHd6Y9hfZaXc33o2R.png?ixlib=java-2.1.0&w=50&s=d17cfaa47e30993ac3f032a627d7805f"
+      },
+      "stars": 1,
+      "maps": "bo3",
+      "teams": [
+        {
+          "id": 10567,
+          "name": "SAW",
+          "logo": "https://img-cdn.hltv.org/teamlogo/7iWEFSeqhDdqbG4U2Su9Vy.png?ixlib=java-2.1.0&w=50&s=4adccb0378e285d75db4cd2f244f6abb"
+        },
+        {
+          "id": 7234,
+          "name": "Endpoint",
+          "logo": "https://img-cdn.hltv.org/teamlogo/LrJW0lI8ifto6tzTjNkxpw.png?ixlib=java-2.1.0&w=50&s=57e8d46eb4d443936734da803412311f"
+        }
+      ]
     }
-  ]
+  ],
+  "cache_expiration": 1727668842.109756
 }
